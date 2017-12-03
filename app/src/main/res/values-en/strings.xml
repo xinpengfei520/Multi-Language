@@ -1,0 +1,10 @@
+﻿<resources>
+    <string name="app_name">Multi-Language</string>
+    <string name="multi_language">Multi-Language</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="set_success">Setting Success~</string>
+    <string name="select_language">Select Language</string>
+    <string name="btn_save">Save</string>
+    <string name="select_please">Select Please！</string>
+</resources>
+

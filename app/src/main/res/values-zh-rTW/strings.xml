@@ -1,0 +1,9 @@
+﻿<resources>
+    <string name="app_name">多語言</string>
+    <string name="multi_language">多語言</string>
+    <string name="hello_world">世界妳好!</string>
+    <string name="set_success">設置成功~</string>
+    <string name="select_language">選擇語言</string>
+    <string name="btn_save">保存</string>
+    <string name="select_please">請選擇語言！</string>
+</resources>
